@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Fourth\Documents\GitHub\Computer-Architecture\simulation\qsim
+vcontrol
+Z1 !s100 lJO1RI2aU>71lK<_L4PXi0
+Z2 ISW=e0neg1dPLZ1FffW]BZ0
+Z3 VX37k4eEi6_LA:S0bOJT4Q3
+Z4 dC:\Users\Fourth\Documents\GitHub\Computer-Architecture\simulation\qsim
+Z5 w1597008703
+Z6 8CPU_TEST_Sim.vo
+Z7 FCPU_TEST_Sim.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|CPU_TEST_Sim.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1597008704.685000
+Z12 !s107 CPU_TEST_Sim.vo|
+!s101 -O0
+vcontrol_vlg_check_tst
+!i10b 1
+Z13 !s100 OlC7VWZZ]dOCJZYUcM:>93
+Z14 I@7>?:J9Zz3?145]C=65o12
+Z15 VMnOXT35ZizS@=_fD9bSoV1
+R4
+R5
+Z16 8CPU_TEST_Sim.vt
+Z17 FCPU_TEST_Sim.vt
+L0 67
+R8
+r1
+!s85 0
+31
+Z18 !s108 1597008704.768000
+Z19 !s107 CPU_TEST_Sim.vt|
+Z20 !s90 -work|work|CPU_TEST_Sim.vt|
+!s101 -O0
+R10
+vcontrol_vlg_sample_tst
+!i10b 1
+Z21 !s100 OG7b19<ZCc9zFZ4dK?H_h0
+Z22 IN74ZVzzXbA5nU3e3b<??I3
+Z23 Vk0JR=A0PO?QA3Sg7YR8Ii1
+R4
+R5
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+vcontrol_vlg_vec_tst
+!i10b 1
+!s100 d0197bI]dMUdXBjbf=RDM3
+IHalJnj8TIUi?D7CZ_f[4R1
+Z24 V5NXK<oZgKCORaVm;a@7J`0
+R4
+R5
+R16
+R17
+Z25 L0 808
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+vCPU_TEST_Sim
+Z26 IZoZ<O?dS:7CFZQe11Yhzb1
+Z27 VD4Xfl_9czkNN5Jl]^TkD92
+R4
+Z28 w1596736415
+R6
+R7
+L0 31
+R8
+r1
+31
+R10
+Z29 n@c@p@u_@t@e@s@t_@sim
+Z30 !s100 6WH^cz8z8U?W`j1Mk@mcO2
+Z31 !s108 1596736416.562000
+R12
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU_TEST_Sim_vlg_check_tst
+Z32 I;cY]306aR]C[4QRRWMbLG2
+Z33 VAN8OL5PC]SYlnbFkPekba3
+R4
+Z34 w1596736414
+R16
+R17
+L0 61
+R8
+r1
+31
+Z35 !s108 1596736416.728000
+Z36 !s107 CPU_TEST_Sim.vt|
+R20
+R10
+Z37 n@c@p@u_@t@e@s@t_@sim_vlg_check_tst
+Z38 !s100 ?dLPhlHY3AP=FHPG_Pb=50
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU_TEST_Sim_vlg_sample_tst
+Z39 I;G3;7ae5ZGeXoNQ74Zgd00
+Z40 V8I[2ieW7H@BD=24IJ7VZ<3
+R4
+R34
+R16
+R17
+L0 29
+R8
+r1
+31
+R35
+R36
+R20
+R10
+Z41 n@c@p@u_@t@e@s@t_@sim_vlg_sample_tst
+Z42 !s100 PR7coHhZmMmfcV5SnhMi43
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU_TEST_Sim_vlg_vec_tst
+Z43 I@mj>5d><U81hm67F@KHD71
+Z44 VjbJ[P:gO<7[a^MA>VFC3^0
+R4
+R34
+R16
+R17
+Z45 L0 3946
+R8
+r1
+31
+R35
+R36
+R20
+R10
+Z46 n@c@p@u_@t@e@s@t_@sim_vlg_vec_tst
+Z47 !s100 0mD6X9La=`0k6XAHHb92Q3
+!i10b 1
+!s85 0
+!s101 -O0
